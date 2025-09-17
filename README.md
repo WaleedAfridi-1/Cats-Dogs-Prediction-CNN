@@ -83,10 +83,8 @@ Confusion matrix and evaluation confirmed strong generalization with minimal ove
 
 ---
 
-## 📷 Sample Predictions
-(Add sample prediction images here)
 
----
+
 
 ## ✨ Author
 - **Waleed Afridi**  
